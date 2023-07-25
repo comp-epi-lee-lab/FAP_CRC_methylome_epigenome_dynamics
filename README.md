@@ -1,4 +1,6 @@
-# FAP_methylation
+# HTAN FAP methylation and epigenomics
+
+## Reference genomes
 
 In general, the reference used for this project is 
 https://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz
